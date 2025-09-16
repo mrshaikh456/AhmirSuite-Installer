@@ -1,4 +1,4 @@
-<!-- README.md (HTML-enhanced) -->
+<!-- README.md (HTML) -->
 <div align="center">
   <h1>AhmirSuite <small style="font-size:16px;display:block;margin-top:-6px;">Employee & Inventory Management (Installer)</small></h1>
   <p style="margin-top:6px;">Cross-platform desktop system (Windows installer published)</p>
